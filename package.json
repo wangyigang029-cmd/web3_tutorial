@@ -1,0 +1,9 @@
+{
+  "name": "my_hardhat_app",
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^17.2.1",
+    "hardhat": "^3.0.0"
+  }
+}
